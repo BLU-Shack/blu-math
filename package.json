@@ -1,0 +1,26 @@
+{
+  "name": "blu-math",
+  "version": "1.0.0",
+  "description": "Math Supplements",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node example.js",
+    "dev": "node private.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BLU-Shack/blu-math.git"
+  },
+  "keywords": [
+    "math",
+    "blu-math",
+    "blumath",
+    "BLU"
+  ],
+  "author": "iRED",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BLU-Shack/blu-math/issues"
+  },
+  "homepage": "https://github.com/BLU-Shack/blu-math#readme"
+}
